@@ -1,8 +1,0 @@
-{
-  "skills": {
-    "port-to-main": {
-      "description": "Port changes from staging repository to the main AIE9 repository for class distribution",
-      "path": ".claude/skills/port-to-main.md"
-    }
-  }
-}
