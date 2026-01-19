@@ -44,21 +44,32 @@ You will be required to submit a link to your GitHub, as well as screenshots of 
 
 Please evaluate your system on the following questions:
 
+My Challenge app link: https://the-ai-engineer-challenge-5gcq.vercel.app/
+
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner.
-    - Aspect Tested:
+    - Aspect Tested: 
+        - Is it able to answer a technical question in a beginner-friendly language
+
 2. Read the following paragraph and provide a concise summary of the key points…
-    - Aspect Tested:
+    -Aspect Tested: 
+        - Ability to summarize and extract key points from text
+
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
     - Aspect Tested:
+        - creativity, storytelling ability, is it able to follow specific requirements (word count), is it able to generate engaging imaginative content 
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
     - Aspect Tested:
+        - is it able to do math problems correctly 
+        - is it able to understand the math problem 
+        - is it logical/analytical reasoning
+        - is it solving problem step by step 
 5. Rewrite the following paragraph in a professional, formal tone…
-    - Aspect Tested:
+    - Aspect Tested: Ability to rewrite text in different tones/styles
 
 #### ❓Question #1:
 
 Do the answers appear to be correct and useful?
-##### ✅ Answer:
+##### ✅ Answer: Most answers were correct and useful. The technical explanations were accurate, the math problems were solved correctly, and the creative writing was engaging.
 
 ---
 
@@ -73,17 +84,149 @@ Now test your assistant with personal questions it should be able to help with. 
 - "What can I cook with [enter ingredients] in fridge."
 
 ##### Your Prompts and Results:
-1. Prompt:
+1. Prompt: Help me think through the pros and cons of AI Makerspace AI Engineer bootcamp 
+   - **Result:**  
+     Absolutely! Considering a bootcamp is an important decision, and it's great that you're thinking it through. Here’s a structured overview of the pros and cons of the AI Makerspace AI Engineer bootcamp:
+
+   **Pros**
+
+   - **Focused Learning:**
+     - Intensive and concentrated study on AI and machine learning topics
+     - Curriculum often designed to meet current industry needs
+   - **Practical Experience:**
+     - Hands-on projects to strengthen your portfolio
+     - Opportunities to work on real-world problems through collaboration
+   - **Networking Opportunities:**
+     - Access to experienced instructors and industry professionals
+     - Connections with fellow students who may become future colleagues
+   - **Career Support:**
+     - Career services such as resume workshops and interview preparation
+     - Potential job placement assistance and partnerships with tech companies
+   - **Accelerated Learning:**
+     - Acquire skills quickly compared to traditional educational paths
+   - **Access to Resources:**
+     - Tools and technology that might otherwise be expensive or inaccessible
+
+   **Cons**
+
+   - **Cost:**
+     - Bootcamps can be expensive, leading to potential debt or financial strain
+     - Some programs may not offer financial aid or scholarships
+   - **Time Intensive:**
+     - Requires a significant commitment, possibly interfering with work or personal life
+     - Speed of learning can be overwhelming depending on the format
+   - **Quality Varies:**
+     - Research is essential, as not all bootcamps are reputable or current
+     - Curriculum might be outdated if not regularly updated
+   - **Limited Depth:**
+     - May not cover topics in as much detail as a traditional degree
+     - Skills might focus more on practical than theoretical knowledge
+   - **Post-Graduation Outcomes:**
+     - Job placement and success rates can vary widely
+     - Employers’ perception of bootcamp education may differ from traditional degrees
+
+   **Conclusion**
+
+   When considering the AI Makerspace AI Engineer bootcamp, weigh these pros and cons based on your personal circumstances and career goals.
+
+   **Questions to consider:**
+   - What is your current skill level and how much time can you commit?
+   - How does the bootcamp align with your career aspirations?
+   - Have you researched reviews and outcomes from past participants?
+
+   **Taking the time to reflect on these aspects will help guide you toward a decision that best fits your needs.**
+
+   If you have specific questions or would like to discuss any considerations further, **please feel free to share them!**  
+   We're here to help you make an informed choice and support your journey.
+
+   **Take a moment to think about:**
+   - Your current skill level and daily schedule
+   - How this bootcamp aligns with your long-term goals
+   - Feedback or outcomes from previous participants
+
+   *Thoughtful reflection now can set you up for future success! 👍*
+2. Prompt: what are the pros and cons of senior quickbase developer versus ai engineer in my career 
    - Result:
-2. Prompt:
+
+     **Choosing Between Senior Quickbase Developer and AI Engineer: Pros & Cons**
+
+     Deciding between becoming a Senior Quickbase Developer and an AI Engineer is a big career step. Let's break down the benefits and challenges of each path to help you make an informed choice.
+
+     ---
+     **Senior Quickbase Developer**
+
+     *Pros:*
+     - **Niche Expertise:** Quickbase is a specialized low-code platform. Mastery here gives you unique skills that certain organizations value for faster app development.
+     - **Lower Barriers to Entry:** Low-code tools like Quickbase often require less formal education in traditional programming, making it more accessible.
+     - **Rapid Development:** You can build and deploy solutions quickly, letting you see tangible results faster.
+     - **Collaboration:** Expect frequent work with business users and cross-functional teams, growing your communication and business analysis skills.
+     - **Stable Demand:** Many organizations rely on Quickbase for custom internal solutions, which can offer good job security.
+
+     *Cons:*
+     - **Limited Technical Growth:** You may not advance your deeper coding or computer science skills as much, since low-code environments handle much of the complexity.
+     - **Platform Dependency:** Your skill set may become closely tied to Quickbase, making transitions to other roles or technologies harder.
+     - **Business vs. Technical Focus:** The role may veer towards project or process management rather than pure software engineering, which isn't right for everyone.
+
+     ---
+     **AI Engineer**
+
+     *Pros:*
+     - **High Demand:** AI and machine learning expertise are increasingly sought after across industries.
+     - **Innovative Work:** You get to work on the frontier of technology, creating impactful and often high-visibility solutions.
+     - **Diverse Opportunities:** AI is used everywhere—from healthcare to finance to entertainment—so your skills are relevant in many fields.
+     - **Higher Earning Potential:** Due to technical complexity and high demand, salaries are generally higher.
+     - **Continuous Learning:** You'll regularly develop new skills in programming, data science, and mathematics.
+
+     *Cons:*
+     - **Steep Learning Curve:** Success requires strong programming, math, and statistical knowledge, which can take significant time and effort to develop.
+     - **Rapid Evolution:** The field changes quickly, so ongoing self-education is essential.
+     - **High Competition:** Many professionals and students are pursuing AI, which can make landing certain roles more competitive.
+
+     ---
+     **Summary & Questions for Reflection**
+
+     As you weigh these paths, consider:
+     - *Your Interests:* Do you like working closely with business teams and solving process problems (Quickbase)? Or are you excited about technical challenges and building smart systems (AI)?
+     - *Career Goals:* Which role better fits your aspirations for leadership, salary, and skills?
+     - *Work-Life Balance:* Consider the typical demands and hours in each field.
+     - *Job Security & Growth:* Look at industry trends in your location or sector.
+
+     **Remember:** The right choice is personal. Reflect on your passions, strengths, and long-term goals. Growth, learning, and adaptability will serve you in either role! If you want help laying out a specific comparison table or visual, just ask.
+
+
+
+
+
+
+   
+3. Prompt: Draft a polite follow-up email to a recruiter who hasn't responded.
    - Result:
-3. Prompt:
-   - Result:
+     Subject: Follow-Up on [Job Title] Application
+
+     Dear [Recruiter's Name],
+
+     I hope this message finds you well. I wanted to take a moment to follow up regarding my application for the [Job Title] position that I submitted on [submission date]. I am very enthusiastic about the opportunity to join [Company Name] and contribute to your team with my skills and experiences.
+
+     I understand that the hiring process can be quite extensive and that you may be busy. If it would be possible, I would greatly appreciate any updates regarding my application status or the timeline for the next steps in the recruitment process.
+
+     Thank you very much for your time and consideration. I look forward to hearing from you soon.
+
+     Warm regards,
+
+     [Your Name]
+
+     [Your LinkedIn Profile or Website, if applicable]
+
+     [Your Phone Number]
+
+     [Your Email Address]
+
+     ---
 
 #### ❓Question #2:
 
 Are the vibes of this assistant's answers aligned with your vibes? Why or why not?
-##### ✅ Answer:
+##### ✅ Answer: Yes, the assistant's answers feel aligned with my communication style
 
 ---
 
@@ -95,15 +238,82 @@ Now test your assistant with questions that would require capabilities beyond ba
 - "What time should I leave for the airport?"
 
 ##### Your Prompts and Results:
-1. Prompt:
-   - Result:
-2. Prompt:
-   - Result:
+1. Prompt: What does my schedule look like tomorrow?
+   - Result: I'm unable to access your personal schedule or calendar. However, I can help you create an effective daily plan or suggest ways to structure your day!
+
+   Here’s a simple template you can use to outline your schedule:
+
+   **Daily Schedule Template**  
+   Date: _[Insert Date Here]_
+
+   **Morning**
+   - 7:00 AM: Wake up
+   - 7:30 AM: Breakfast
+   - 8:00 AM: Morning exercise (jog, yoga, etc.)
+   - 9:00 AM: Get ready for the day
+
+   **Midday**
+   - 10:00 AM: Work/Study block 1
+   - 12:00 PM: Lunch break
+   - 12:30 PM: Quick walk or break
+
+   **Afternoon**
+   - 1:00 PM: Work/Study block 2
+   - 3:00 PM: Break (snack, stretching)
+   - 3:30 PM: Work/Study block 3
+
+   **Evening**
+   - 5:00 PM: Wind down from work/study
+   - 6:00 PM: Dinner
+   - 7:00 PM: Leisure time (reading, hobbies)
+   - 9:00 PM: Prepare for bed
+
+   **Tips for a Successful Day:**
+   - **Prioritize tasks:** Identify the most important tasks for the day.
+   - **Take breaks:** Short breaks can improve productivity and focus.
+   - **Stay flexible:** Allow some room for adjustments in case things don’t go as planned.
+
+   Feel free to modify this template based on your actual commitments! If you have specific tasks or appointments, let me know, and I can help you organize them.
+2. Prompt: What time should I leave for the airport?
+   - **Result:** Deciding when to leave for the airport is important for a smooth trip. Here are some factors to consider when planning your departure time:
+
+   **1. Flight Time**
+   - Check your flight’s departure time.
+   - Determine if the flight is domestic or international (international flights usually require earlier arrival).
+
+   **2. Airport Guidelines**
+   - *Domestic Flights:* Arrive at least **1.5 to 2 hours** before departure.
+   - *International Flights:* Arrive at least **2 to 3 hours** before departure.
+
+   **3. Travel Time to Airport**
+   - Calculate how long it will take to get to the airport (use GPS or a maps app).
+   - Consider typical traffic conditions and potential delays.
+
+   **4. Check-In and Security**
+   - Many airlines offer online check-in, which can save time.
+   - Security wait times may vary, so allow extra time if you’re unsure.
+
+   **5. Parking or Transportation**
+   - If driving: Allow extra time to park and walk to the terminal.
+   - If using public transportation or a ride-share: Add extra buffer time in case of unforeseen delays.
+
+   **Summary Formula:**  
+   `Total Needed Time = Required Airport Arrival Time + Travel Time + Buffer Time`
+
+   **Example:**  
+   Your flight departs at **3:00 PM**:
+   - Required Arrival Time: 2 hours before (**1:00 PM**)
+   - Travel Time: **30 minutes**
+   - Additional Buffer Time: **30 minutes**
+   - **Planned Departure:** Leave by **12:00 PM**
+
+   **Final Tip:**  
+   It’s much better to have extra time at the airport than to risk missing your flight. Safe travels! ✈️
 
 #### ❓Question #3:
 
 What are some limitations of your application?
-##### ✅ Answer:
+##### ✅ Answer: my application doesn't connect to my calendar or accesses my personal flight itinerary. 
 
 ---
 
